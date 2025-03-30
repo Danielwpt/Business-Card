@@ -2,4 +2,7 @@
     <string name="app_name">Business Card</string>
     <string name="business_card_name">ANTHONY LAKE</string>
     <string name="business_card_title">SOFTWARE ENGINEER</string>
+    <string name="business_phone_number">+000-000000</string>
+    <string name="business_social_media">\@anthonylake</string>
+    <string name="business_email">anthonylake@email.com</string>
 </resources>
